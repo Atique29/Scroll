@@ -16,7 +16,7 @@ This project offers a simple, custom-built hardware scroller to provide a more c
 * **Input:** KY-040 Rotary Encoder
 * **Wireless Communication:** HC-05 Bluetooth-to-Serial-Port Module
 
-<img src="board.jpg" alt="PCB"" width="200"/>
+![pcb_board](board.jpg "PCB")
 
 ## How It Works
 1.  The **KY-040 rotary encoder** detects rotational movement.
